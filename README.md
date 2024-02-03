@@ -7,3 +7,7 @@ Moreover, the program includes a currency converter for seamless financial opera
 Best regards,
 
 - Rayyan Alomari.
+
+
+NOTE: Username: rayano
+      Password: 2003
